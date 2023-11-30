@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style the body */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  /* Header/logo Title */
+  .header {
+    bottom: 15%;
+    padding: 90px;
+    text-align: center;
+    background-image: url("assets/backgroundpc.jpg");
+    background-size: 100%;
+    color: #000000;
+  }
+  
+  /* Increase the font size of the heading */
+  .header h1 {
+    font-size: 200%;
+  }
+  
+  /* Style the top navigation bar */
+  .navbar {
+    overflow: hidden;
+    background-color: #1b1b1b;
+  }
+  
+  /* Style the navigation bar links */
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2% 3%;
+    text-decoration: none;
+  }
+
+  /* Main column */
+  .main { 
+    background-image: linear-gradient(to bottom, #001728, #4D6474);
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  /* Footer */
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background-image: linear-gradient(to bottom, #4D6474, #001728);
+    color: #ffffff;
+  }
+.text {
+  text-align: left;
+  max-width: 80%;
+} 
