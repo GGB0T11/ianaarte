@@ -34,3 +34,25 @@
     margin-right: 190px;
     text-align: center;
 } 
+
+img {
+  border: 5px solid #555;
+}
+
+/*
+  a:link {
+  color: rgb(255, 0, 0);
+}
+
+  a:visited {
+    color: rgb(0, 255, 0);
+}
+  
+ a:hover {
+  color: rgb(238, 255, 5);
+ }
+
+  a:active {
+    color: black;
+  }
+*/
