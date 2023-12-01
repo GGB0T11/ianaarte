@@ -7,7 +7,7 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
   }
-  .container {
+  .header {
     padding: 1px 0px 150px 0px;
 
     height: 120px;
@@ -15,17 +15,11 @@
     color: #ffffff;
   }
 
-  .header {
-    padding: 150px;
-    background-image: url("assets/backgroundpc.jpg");
-    width: 100%;
-    height: 398px;
-  }
-
   .main { 
     background-image: linear-gradient(to bottom, #001728, #4D6474);
     color: #ffffff;
-    padding: 20px;
+    padding-bottom: 20px;
+    
   }
   
   .footer {
@@ -40,4 +34,3 @@
     margin-right: 190px;
     text-align: center;
 } 
-
