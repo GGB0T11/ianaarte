@@ -40,13 +40,13 @@ img {
 }
 
 @media only screen and (max-width: 700px) {
-  text {
+  .text {
     margin: 0%;
     font-size: 200%;
     text-align: left;
   }
 
-  main {
+  .main {
     padding: 0%;
 }
 
